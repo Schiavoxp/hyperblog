@@ -1,1 +1,1 @@
-alert("Hola papa")
+console.log("Hola papa hoy comi pollo")
